@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner=new Scanner(System.in);
         int n = scanner.nextInt();
         if(n==0){
-            System.out.println("not applicable");
+            System.out.println("N/A");
         }
         else{
             scanner.nextLine().trim();
